@@ -1,0 +1,9 @@
+sympy: 1.9
+
+Compiler    : MSC v.1916 64 bit (AMD64)
+OS          : Windows
+Release     : 10
+Machine     : AMD64
+Processor   : Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+CPU cores   : 8
+Architecture: 64bit
